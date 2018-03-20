@@ -1,0 +1,23 @@
+{
+  "name": "node_mysql_project",
+  "version": "1.0.0",
+  "description": "Bamazon Online Store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tricialeav/Node_mySQL_Project.git"
+  },
+  "author": "Tricia Leavitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tricialeav/Node_mySQL_Project/issues"
+  },
+  "homepage": "https://github.com/tricialeav/Node_mySQL_Project#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
